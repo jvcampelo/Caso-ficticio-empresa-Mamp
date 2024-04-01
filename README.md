@@ -14,5 +14,4 @@ Este é um projeto de visualização de dados desenvolvido para uma empresa fict
 - Microsoft Power BI: Utilizado para criar as visualizações interativas e analisar os dados.
 - Microsoft Power Query: Utilizado para preparar e formatar os dados antes da importação para o Power BI.
 
-## Estrutura do Projeto
 
